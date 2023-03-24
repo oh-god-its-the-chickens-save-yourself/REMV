@@ -16,7 +16,7 @@ print("""
 	+------------------------+
 	|Created by Shaunak Ghosh|
 	|Date: 23/03/2023 19:10  |
-	|Github: shaunakg3       |
+	|Github: @shaunakg3      |
 	+------------------------+
 	\n
 	""")
