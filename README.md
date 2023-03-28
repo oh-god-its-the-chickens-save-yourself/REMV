@@ -1,6 +1,6 @@
-# Moon Noise
+# REMV
 
-Moon Noise is a procedural noise generator using a reverse-engineered music visualiser to create audio noise.
+REMV is a procedural noise generator using a reverse-engineered music visualiser to create audio noise.
 
 It uses a photograph of the Moon's topology.
 
