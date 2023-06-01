@@ -12,14 +12,7 @@ pygame.mixer.music.set_volume(0.7)
 os.system("clear")
 
 print("MoonNoise. :)")
-print("""
-	+------------------------+
-	|Created by Shaunak Ghosh|
-	|Date: 23/03/2023 19:10  |
-	|Github: @horsesnacks    |
-	+------------------------+
-	\n
-	""")
+
 
 # Variables and Inputs
 orange = input("How many Deep Craters are there that are highlighted are orange? ($/mesh.jpg)\n>>> ")
